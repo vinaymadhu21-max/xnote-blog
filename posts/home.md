@@ -3,7 +3,7 @@ title: Home 📝
 slug: home
 description: 
 tags: ["home"]
-publishedAt: 1780322194304
+publishedAt: 1780322218751
 ogImage: https://raw.githubusercontent.com/vinaymadhu21-max/xnote-blog/main/assets/1780322138422-image__16_.png
 ---
 
